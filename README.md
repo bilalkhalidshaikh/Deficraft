@@ -28,6 +28,8 @@ To set up Deficraft locally and begin building blockchain projects, follow these
 - A wallet such as MetaMask (for interaction with Ethereum, BSC, or Polygon)
 - A blockchain provider API (e.g., Infura, Alchemy) for backend integration.
 
+
+   ```
 ### Steps
 
 1. **Clone the repository**:
@@ -106,4 +108,3 @@ Stay connected and be part of the blockchain revolution!
 - **License**: The license under which the project is released (MIT License in this case).
 - **Contact**: Email and community links for support and communication.
 
-You can customize the links and details (like the GitHub repo URL, Discord link, etc.) as per your actual project setup. Let me know if you'd like any further tweaks!
